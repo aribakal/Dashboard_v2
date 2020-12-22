@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#contenedor1{
+  background: red;
+  width: 5vw;
+  height: 5vw;
+}
+#contenedor2{
+  background: blue;
+  width: 5vw;
+  height: 5vw;
+}
+#contenedor3{
+  background: green;
+  width: 5vw;
+  height: 5vw;
+}
